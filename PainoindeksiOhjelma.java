@@ -2,8 +2,8 @@
  * PainoindeksiOhjelma
  * Asiakas: Paino OY
  * @authors 
- * Satu Kautto
  * Sauli Karvinen
+ * Satu kautto
  * Saara Nyyssönen
  * Riku Rissanen
  * Sami Ruotsalainen
